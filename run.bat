@@ -1,0 +1,2 @@
+python ObjectClassification.py
+pause
